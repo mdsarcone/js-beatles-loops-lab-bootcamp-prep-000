@@ -10,6 +10,7 @@ function johnLennonFacts(facts) {
   let countdown = facts.length
   while (countdown >= 0) {
     facts[countdown] = facts[countdown] + "!!!"
+    --countdown
   }
   return facts
 }
