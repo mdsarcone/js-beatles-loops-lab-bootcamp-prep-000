@@ -13,11 +13,3 @@ function johnLennonFacts(facts) {
   }
   return facts
 }
-
-function iLoveTheBeatles(n) {
-  var newArray = []
-  do {
-
-  } while ()
-  return newArray
-}
